@@ -1,4 +1,4 @@
-# next-css example
+# About this project
 
 In this project, we will create a writing assistance tool. When we write a piece of text, we can use OpenAI’s API to rephrase, improve, and even change the tone of the text written.
 
@@ -11,6 +11,6 @@ The input text can be changed to be funny, professional or casual using Change t
 - Clone this repository.
 - Add your OpenAI API key to openai-writer/env file
 - Go to openai-writer
-- Run npm install
-- Run PORT=3000 npm run dev
+- Run `npm install`
+- Run `PORT=3000 npm run dev`
 - Check http://localhost:3000/
