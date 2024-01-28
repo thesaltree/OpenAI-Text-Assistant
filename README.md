@@ -10,6 +10,7 @@ The input text can be changed to be funny, professional or casual using Change t
 
 - Clone this repository.
 - Add your OpenAI API key to openai-writer/env file
-- Run npm install in openai-writer
+- Go to openai-writer
+- Run npm install
 - Run PORT=3000 npm run dev
 - Check http://localhost:3000/
